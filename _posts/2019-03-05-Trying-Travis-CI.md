@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trying Travis CI
+order: 11
 ---
 
 **Code Coverage** is a measurement of how many lines/blocks/arcs of your code are executed while the automated tests are running.

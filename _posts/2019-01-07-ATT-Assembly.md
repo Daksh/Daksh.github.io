@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AT&T x86 Assembly
+order: 9
 ---
 
 The resources are hard to comprehend and general understand is (in my case at least) being done with a lot of Stack Overflow answers. So, let's make some notes and consolidate all the learnings together

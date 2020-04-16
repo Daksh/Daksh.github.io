@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-	{% assign sorted-posts = site.posts | sort: 'title' %}
+	{% assign sorted-posts = site.posts | sort: 'order' %}
   {% for post in sorted-posts %}
     <article class="post">
 

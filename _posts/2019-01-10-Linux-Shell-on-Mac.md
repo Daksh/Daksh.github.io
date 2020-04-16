@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux Shell on Mac?
+order: 6
 ---
 
 I was trying to use GCC in combination with GDB. There were some errors, that are still unresolved. The problem was that GDB was unable to use the output that was created. I tried changing from `clang` to gcc provided by `brew install gcc` but it did not work out.

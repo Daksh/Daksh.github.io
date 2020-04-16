@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fix exFAT External Hard Disk on Mac
+order: 8
 ---
 
 Often times my External Hard disk stops being detected on my MacBook Air. The first few times were scary but now I generally know that I will figure a way out.

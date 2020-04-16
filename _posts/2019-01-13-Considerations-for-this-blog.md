@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Considerations for this blog
+order: 12
 ---
 
 * Using Tags
