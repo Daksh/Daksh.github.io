@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Customize Terminal Colors
-order: 10
+order: 7
 ---
 
 I use iTerm2+zsh+oh-my-zsh. Recently I wished to change the dark theme to a ligher one.

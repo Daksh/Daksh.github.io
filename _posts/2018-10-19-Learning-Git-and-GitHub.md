@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Learning Git and GitHub
+title: Tutorial on Git and GitHub for Absolute Beginners
+order: 1
 ---
 
 <!-- <img align="right" src="{{ site.baseurl }}/images/git/git_github.png" width="400"/> -->

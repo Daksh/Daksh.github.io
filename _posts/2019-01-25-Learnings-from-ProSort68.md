@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learnings from ProSort 68 Div-2
-order: 3
+title: Learnings from a CP Contest (ProSort 68 Div-2)
+order: 8
 ---
 
 Recently I took part in a competetive programming contest. It was a practice one and I learnt some very important things.

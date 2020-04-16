@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reclaim/Make Space on Mac
-order: 5
+title: How to Reclaim/Make Space on Mac
+order: 6
 ---
 
 * Uninstall Applications using CleanMyMac
